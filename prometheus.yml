@@ -31,9 +31,9 @@ scrape_configs:
   - job_name: node
     scrape_interval: 5s
     static_configs:
-    - targets: ['135.181.28.129:9100']
+    - targets: ['YOU_IP:9100']
 
   - job_name: near-exporter
     scrape_interval: 15s
     static_configs:
-    - targets: ['135.181.28.129:9333']
+    - targets: ['YOU_IP:9333']
