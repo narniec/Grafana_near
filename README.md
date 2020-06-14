@@ -1,6 +1,6 @@
 Clone the Prometheus repository to your local machine
 
-git clone https://github.com/narniec/Grafana_near.git
+git clone https://github.com/narniec/grafana_near.git
 
 And then switch to the Grafana_near directory.
 
